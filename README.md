@@ -6,7 +6,7 @@ More specifically, this repository contains concepts from different areas of fun
 
 ## Content
 Currently I am working on the **functional analysis** part of this repositiry.
-.doc files are stored in the [docs](/docs/) folder and .pdf files are stored in the [pdfs](/pdfs/) folder.
+<br>.doc files are stored in the [docs](/docs/) folder and .pdf files are stored in the [pdfs](/pdfs/) folder.
 1. **01_Vector Space**: Concepts of a vector space, basis, span and linear independence.
 
 **Further topics**:
