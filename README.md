@@ -5,7 +5,7 @@ More specifically, this repository contains concepts from different areas of fun
 > **Note**: The chapters are divided based on my understanding and in a sequence which I found easier to comprehend one-by-one. The repository as a whole is still <u>*work in progress*</u> and many of the files are, as of now, placeholders, only to be updated later. This gives an idea which area I will be updating the next. I am taking some time out from my daily schedule and contributing to this repository. Since, I cannot afford to spend a lot of time on a regular basis, the completion may take some time. Meanwhile, I ask whoever is visiting this repository to have a little patience. And I do appreciate anyone willing to collaborate.
 
 ## Content
-Currently I am working on the **functional analysis** part of this repositiry.
+Currently I am working on the **functional analysis** part of this repository.
 <br>.doc files are stored in the [docs](/docs/) folder and .pdf files are stored in the [pdfs](/pdfs/) folder. Currently the repository contains concepts from following areas:
 1. **01_Vector Space**: Concepts of a vector space, basis, span and linear independence.
 
