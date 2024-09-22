@@ -2,7 +2,7 @@
 This repository contains fundamental concepts of different branches of mathematics and stochastics, which are cornerstones for a successful career in machine learning and data science.
 More specifically, this repository contains concepts from different areas of functional analysis, linear algebra, stochastics etc.
 
-**Note**: The chapters are divided based on my understanding and in a sequence which I found easier to comprehend one-by-one. The repository as a whole is still *work in progress* and many of the files are, as of now, placeholders, only to be updated later. This gives an idea which area I will be updating the next. I am taking some time out from my daily schedule and contributing to this repository. Since, I cannot afford to spend a lot of time on a regular basis, the completion may take some time. Meanwhile, I ask whoever is visiting this repository to have a little patience. And I do appreciate anyone willing to collaborate.
+**Note**: The chapters are divided based on my understanding and in a sequence which I found easier to comprehend one-by-one. The repository as a whole is still <u>*work in progress*</u> and many of the files are, as of now, placeholders, only to be updated later. This gives an idea which area I will be updating the next. I am taking some time out from my daily schedule and contributing to this repository. Since, I cannot afford to spend a lot of time on a regular basis, the completion may take some time. Meanwhile, I ask whoever is visiting this repository to have a little patience. And I do appreciate anyone willing to collaborate.
 
 ## Content
 1. 
