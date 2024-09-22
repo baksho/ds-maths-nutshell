@@ -10,9 +10,9 @@ Currently I am working on the **functional analysis** part of this repository.
 1. **01_Vector Space**: Concepts of a vector space, basis, span and linear independence.
 
 **Further topics**:
-- [] Inner Products and Norms
-- [] Metrics
-- [] Linear Mappings
+- [ ] Inner Products and Norms
+- [X] Metrics
+- [ ] Linear Mappings
 - [] Affine Spaces
 - [] Sequences, Limits, Open and Closed Sets
 - [] Cauchy Sequences and Complete Spaces
