@@ -9,9 +9,10 @@ More specifically, this repository contains concepts from different areas of fun
 
 ## References
 1. Lecture notes from the *Calculus* section of the course *Ramp Up Mathematics* taken by Dr. Konstantin Merz (Summer Semester 2024, Technische Universität Braunschweig), lecture notes prepared by Prof. Dr. Dirk Lorenz
+2. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong. Published by Cambridge University Press (2020).
 
 
 ## Books
-1. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+1. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (This version is free to view and download for personal use only. Not for re-distribution, re-sale, or use in derivative works. ©by M. P. Deisenroth, A. A. Faisal, and C. S. Ong, 2024. https://mml-book.com.)
 
 
