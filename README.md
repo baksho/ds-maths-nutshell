@@ -11,17 +11,17 @@ Currently I am working on the **functional analysis** part of this repository.
 
 **Further topics**:
 - [ ] Inner Products and Norms
-- [X] Metrics
+- [ ] Metrics
 - [ ] Linear Mappings
-- [] Affine Spaces
-- [] Sequences, Limits, Open and Closed Sets
-- [] Cauchy Sequences and Complete Spaces
-- [] Cauchy-Schwartz Inequality
-- [] Banach Spaces
-- [] Hilbert Spaces
-- [] Orthogonality
-- [] Continuity
-- [] Operator Norm
+- [ ] Affine Spaces
+- [ ] Sequences, Limits, Open and Closed Sets
+- [ ] Cauchy Sequences and Complete Spaces
+- [ ] Cauchy-Schwartz Inequality
+- [ ] Banach Spaces
+- [ ] Hilbert Spaces
+- [ ] Orthogonality
+- [ ] Continuity
+- [ ] Operator Norm
 
 ## References
 1. Lecture notes from the *Calculus* section of the course *Ramp Up Mathematics* taken by Dr. Konstantin Merz (Summer Semester 2024, Technische Universität Braunschweig), lecture notes prepared by Prof. Dr. Dirk Lorenz
