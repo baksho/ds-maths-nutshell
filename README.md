@@ -1,4 +1,4 @@
-# Description
+## Description
 This repository contains fundamental concepts of different branches of mathematics and stochastics, which are cornerstones for a successful career in machine learning and data science.
 More specifically, this repository contains concepts from different areas of functional analysis, linear algebra, stochastics etc.
 
