@@ -28,7 +28,7 @@ Currently I am working on the **functional analysis** part of this repository.
 2. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong. Published by Cambridge University Press (2020).
 
 
-### Books
+#### Books
 1. *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (**Note**: This version is free to view and download for personal use only. Not for re-distribution, re-sale, or use in derivative works. ©by M. P. Deisenroth, A. A. Faisal, and C. S. Ong, 2024. https://mml-book.com.)
 
 
